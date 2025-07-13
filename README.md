@@ -17,15 +17,6 @@ In this game, two players take turns to roll a dice. Each player can roll the di
 - 🧠 Full game flow implemented based on flowchart
 - 🖱️ Interactive UI with DOM manipulation
 
-  
----
-
-## 🧠 Logic Reference
-
-The entire game logic is based on the following flowchart:
-
-(./pig-game-flowchart.png)
-
 ---
 
 ## 🚀 Live Demo
